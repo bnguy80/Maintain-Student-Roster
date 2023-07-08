@@ -1,0 +1,11 @@
+﻿  main.cpp
+  roster.cpp
+C:\Users\17033\source\repos\C867_Final\C867_Task\roster.cpp(42,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\17033\source\repos\C867_Final\C867_Task\roster.cpp(53,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\17033\source\repos\C867_Final\C867_Task\roster.cpp(55,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\17033\source\repos\C867_Final\C867_Task\roster.cpp(71,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\17033\source\repos\C867_Final\C867_Task\roster.cpp(89,20): warning C4018: '<': signed/unsigned mismatch
+  student.cpp
+  Generating Code...
+  LINK : C:\Users\17033\source\repos\C867_Final\C867_Task\Debug\C867_Task.exe not found or not built by the last incremental link; performing full link
+  C867_Task.vcxproj -> C:\Users\17033\source\repos\C867_Final\C867_Task\Debug\C867_Task.exe
